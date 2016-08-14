@@ -138,7 +138,7 @@
   <data name="TXT_terminal.Text" xml:space="preserve">
     <value>* NOTE * 상단 링크를 클릭하세요.
 CLI 는 최초 전원 연결시에만 동작하며, log는  USB를 통하여서만 다운로드 됨. 
-최근 버전들은 mavlink 를 통한 log 다운로드만 지원됨. flightdata &gt; dataflahs 참조 요망.</value>
+최근 버전들은 mavlink 를 통한 log 다운로드만 지원됨. flightdata &gt; dataflash 참조 요망.</value>
   </data>
   <data name="BUT_logbrowse.Text" xml:space="preserve">
     <value>로그 탐색</value>
